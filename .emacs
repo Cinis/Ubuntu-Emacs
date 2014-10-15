@@ -139,6 +139,6 @@
     ;;启动Emacs自动设置为两个窗口(上下各一个)   
     (split-window-vertically)   
     ;;改变emacs标题栏的标题   
-    (setq frame-title-format "%b@vj.org")   
+    (setq frame-title-format "The_Emacs@Cinis")   
     ;;允许emacs和外部其他程序的粘贴   
     (setq x-select-enable-clipboard t)   
